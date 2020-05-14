@@ -1,0 +1,11 @@
+{
+  "body": "{\"content\":\"new shoe from update mock test\",\"attachment\":\"new_from_mock_test.jpg\"}",
+  "pathParameters": {
+    "id": "36bdca30-95ad-11ea-b0d0-075f3983c641"
+  },
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "USER-SUB-1234"
+    }
+  }
+}
